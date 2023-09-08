@@ -1,7 +1,7 @@
-package com.practice.Person.controller;
+package com.addressBook.Person.controller;
 
-import com.practice.Person.entity.Person;
-import com.practice.Person.service.PersonService;
+import com.addressBook.Person.entity.Person;
+import com.addressBook.Person.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

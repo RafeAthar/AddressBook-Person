@@ -1,12 +1,11 @@
-package com.practice.Person.service;
+package com.addressBook.Person.service;
 
-import com.practice.Person.entity.Person;
-import com.practice.Person.repository.PersonRepository;
+import com.addressBook.Person.entity.Person;
+import com.addressBook.Person.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class PersonService {

@@ -1,4 +1,4 @@
-package com.practice.Person.entity;
+package com.addressBook.Person.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
